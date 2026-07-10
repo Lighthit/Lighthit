@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-dark-rainbow.svg",
+  "backgroundColor": "#00000f",
+  "foregroundColor": "#eeeeff",
+  "strongColor": "rgb(255,200,55)",
+  "weakColor": "#aaaaaa",
+  "radarColor": "rgb(255,200,55)",
+  "growingAnimation": true,
+  "contribColors": [
+    "#3d1919",
+    "#4d1919",
+    "#77191f",
+    "#c81941",
+    "rgb(255,200,55)"
+  ]
+}
