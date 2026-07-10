@@ -14,11 +14,11 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: Lighthit/Lighthit@Master
+      - uses: Lighthit/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: .github/profile-dark-rainbow.svg.json
+          SETTING_JSON: .github/profile-dark-rainbow.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
