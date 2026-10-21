@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+web+apps;Building+Native+Mobile+Apps(+android/ios+);Deploying+with+CI%2FCD+on+Cloud;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+web+apps;Building+Native+Mobile+Apps(+android/ios+);Deploying+website+on+Cloud;" alt="Typing SVG" />
 </p>
 
 ### 🛠️ Tech Stack
